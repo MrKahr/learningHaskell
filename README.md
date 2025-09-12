@@ -1,6 +1,6 @@
 # LearningHaskell
 Personal solutions for programming in Haskell by Graham Hutton (2016)
-Since this is a learning project; it does not represent best pratices. 
+Since this is a learning project; it does not represent best practices. 
 
 ## Rules
 To learn as much as I can, I have imposed the following rules on this project: 
@@ -9,8 +9,8 @@ To learn as much as I can, I have imposed the following rules on this project:
 - I should mostly use ghci to become familiar with it. 
 
 ## Find a bug? 
-If you find a bug, you are more than open an issue \
-Before you open an issue, please note I have written the solutions in accordance with the requirements in Hutton's book, not necessarily best practices. c
+If you find a bug, you are welcome to open an issue \
+Before you open an issue, please note I have written the solutions in accordance with the requirements in Hutton's book, not necessarily best practices.
 
 ## Credit:
 I would like to thank Dr Graham Hutton for making his course available on youtube 
